@@ -1,6 +1,7 @@
 # l01-ex03
 
-- Status: Pending
+-  Status: Pending
+-  Live page <https://www.chindraba.work/fewd/l01-ex03.html>
 
 ## Contents
 
@@ -11,7 +12,7 @@
 ---
 ## Description
 
-Solo Exercise: Cookie Time
+### Lesson 1: Solo Exercise: Cookie Time
 
 Follow the directions in the CodePen to add HTML tags to the given document. Think about the common tags we've seen. You can also sneak a peek at the CSS for a glimpse ahead of how style is applied to specific tags!
 
