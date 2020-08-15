@@ -1,6 +1,7 @@
 # l01-ex03
 
 -  Status: Pending
+-  CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
 -  Live page <https://www.chindraba.work/fewd/l01-ex03.html>
 
 ## Contents
@@ -18,7 +19,7 @@ Follow the directions in the CodePen to add HTML tags to the given document. Thi
 
 The starter code is:
 
-    # HTML
+# HTML
 
     Task
     ========================
@@ -63,7 +64,7 @@ The starter code is:
     So, in case you didn't know, your grandma didn't actually make this recipe, it was altered from Open Source Recipe "http://www.opensourcefood.com/people/Amanori/recipes/mamas-recipe-the-best-chocolate-chip-cookies"
     Sorry to break the news. <!--You must include the link in your final webpage -->
 
-    # CSS 
+# CSS 
 
     body {
     background: #FFE;
