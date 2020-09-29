@@ -1,7 +1,7 @@
 l01-ex03
 * Status: Final
 * CodePen: <https://codepen.io/chindraba-ga/pen/gOrOwWj>
-* Live page <https://www.chindraba.work/fewd/l01-ex03.html>
+* Live page <https://fewd.chindraba.work/lessons/l01-ex03/index.html>
 
 Contents
 ================================================================================
